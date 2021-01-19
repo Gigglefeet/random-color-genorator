@@ -1,0 +1,12 @@
+{
+  "name": "random-color-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gigglefeet/random-color-genorator.git",
+  "author": "Robert Mariuson <gigglefeet@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "randomcolor": "^0.6.2"
+  }
+}
